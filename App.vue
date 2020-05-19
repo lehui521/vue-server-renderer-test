@@ -1,5 +1,5 @@
 <template>
-    <div id="app">
+    <div id="app" data-server-rendered="true">
     </div>
 </template>
 <script>
